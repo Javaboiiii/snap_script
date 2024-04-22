@@ -1,0 +1,68 @@
+body{
+  border : 2px solid;
+  background: linear-gradient(brown, black);
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+.wrap{
+  margin: 0 auto;
+}
+#image{
+  width: 75px;
+  height: 75px;
+  float: left;
+  margin-left: 85px;
+}
+.go{
+  font-family: Pathway Gothic One;
+  width: 100px;
+  height: 100px;
+color: white;
+display: inline;
+font-size: 64px;
+font-weight: 500;
+mix-blend-mode: hard-light;
+text-align: center;
+}
+
+.heading{
+  width: 435px;
+height: 70px;
+font-family: Rubik Broken Fax;
+color: white;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+text-align: center;
+}
+
+#text-box{
+  border: solid ;
+  border-radius : 10px;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 100px;
+  margin-bottom: 20px;
+
+}
+#transcript{
+  text-align: center;
+  color: aqua;
+  font-style: italic;
+  font-family: Satisfy;
+}
+
+#summary{
+  text-align: center;
+  color: aqua;
+  font-style: italic;
+  font-family: Satisfy;
+}
+
+.btn{
+  align-items: center;
+  margin-left: 100px;
+}
+
